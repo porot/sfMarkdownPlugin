@@ -1,0 +1,19 @@
+{
+  "name": "porot/sf-markdown-plugin",
+  "type": "symfony1-plugin",
+  "description": "Fork from Symfony-Plugins/sfMarkdownPlugin",
+  "keywords": [
+    "symfony",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/porot/sfMarkdownPlugin",
+  "require": {
+    "composer/installers": "*"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
